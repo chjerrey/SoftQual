@@ -13,6 +13,7 @@ Quellcode von Github ziehen
 
 Installation mit
 > npm install
+
 > bower install
 
 Start der Website
