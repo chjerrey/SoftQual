@@ -24,8 +24,10 @@ Quellcode von Github ziehen
 
 Installation mit
 > npm install -g protractor
+
 > webdriver-manager update
 
 Start der Tests
 > webdriver-manager start
+
 > protractor conf.js
