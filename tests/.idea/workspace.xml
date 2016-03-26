@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="058426a7-651c-432e-b533-334e7ff1e605" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Momo_Pfirsich.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/obj/device.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/obj/device_form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/obj/forgot_password.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/obj/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/obj/profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/obj/register.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/obj/utility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/device/device_delete_no_success.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/forgot_password/forgot_password_no_mail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/login/login_invalid_mail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/login/login_no_mail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/login/login_no_password.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/login/login_no_success.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/login/login_success.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/logout/logout_new_device.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/logout/logout_success.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/profile/profile_delete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/register/register_link_login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Elena_GedankenVorhang_Testfälle.odt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-10_Meldungen_beim_DeleteProfile.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-1_logIn_Pflichtfelder-Hinweise.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-2_ungueltigesLogIn-Hinweis.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-3_ungueltigeEmailAdresse.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-4_ WarnungBeimLogout.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-5_Logout_Success.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-6_Pflichtfeld_beim_ResetPassword.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-7A_RückkehrButton_vomRegisterFormular-zuLogin_Vorhandensein.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-7B_RückkehrButton_vomRegisterFormular-zuLogin_Fähigkeit.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-7_RückkehrButton_vomRegisterFormular-zuLogin.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-8_DeleteProfile.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-9_1_deleteDevice_trash_abbruch.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SQ-9_deleteDevice_trash_success.JPG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../doc/Dokumentation.docx" afterPath="$PROJECT_DIR$/../doc/Dokumentation.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf.js" afterPath="$PROJECT_DIR$/conf.js" />
     </list>
     <ignored path="tests.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,31 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="conf.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="conf.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="device_delete_no_success.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/device/device_delete_no_success.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tests.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,7 +75,6 @@
         <option value="$PROJECT_DIR$/spec/login/login_invalid_mail.js" />
         <option value="$PROJECT_DIR$/obj/device_form.js" />
         <option value="$PROJECT_DIR$/obj/device.js" />
-        <option value="$PROJECT_DIR$/conf.js" />
         <option value="$PROJECT_DIR$/obj/register.js" />
         <option value="$PROJECT_DIR$/obj/forgot_password.js" />
         <option value="$PROJECT_DIR$/spec/forgot_password/forgot_password_no_mail.js" />
@@ -141,6 +85,7 @@
         <option value="$PROJECT_DIR$/spec/logout/logout_success.js" />
         <option value="$PROJECT_DIR$/spec/profile/profile_delete.js" />
         <option value="$PROJECT_DIR$/spec/device/device_delete_no_success.js" />
+        <option value="$PROJECT_DIR$/conf.js" />
       </list>
     </option>
   </component>
@@ -197,6 +142,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -339,9 +287,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -792,12 +737,13 @@
       <workItem from="1458665551873" duration="9299000" />
       <workItem from="1458899462951" duration="14533000" />
       <workItem from="1458933649171" duration="12469000" />
-      <workItem from="1459019489167" duration="398000" />
+      <workItem from="1459019489167" duration="991000" />
+      <workItem from="1459027558582" duration="2025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37174000" />
+    <option name="totallyTimeSpent" value="39792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1017" height="1040" extended-state="0" />
@@ -813,7 +759,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21678321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25074926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -887,11 +833,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spec/device/device_delete_no_success.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/obj/device.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -929,7 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,7 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,14 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/profile/profile_delete.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1098,6 +1056,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1110,10 +1075,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests.iml">
+    <entry file="file://$PROJECT_DIR$/conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="425">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
