@@ -21,6 +21,8 @@ describe('logout new device',function(){
 
         browser.waitForAngular();
         expect(browser.getLocationAbsUrl()).toBe('/devices/new');
+        
+        expect(pageDeviceEdit.getDeviceWarning().isPresent()).toBe(true);
     });
 
     afterEach(function () {
